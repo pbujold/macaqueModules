@@ -12,7 +12,7 @@ This is the psychometric analysis code for binary choice data I gathered in the 
   * **f_utility**:  
   * **f_Rfunctions**: rpy2-specific functions used to fill in gaps in statsmodels capabilities. Examples include repeated-measures anovas and manovas.
   * **f_uncertainty**: module focused on calculating/visualising uncertainties in the data: confidence intervals, cross-validation...  
-* easy_setp.py will make sure the necessary packages are installed on your python environment automatically (to-do, env.file)
+* easy_setup.py will make sure the necessary packages are installed on your python environment automatically (to-do, env.file)
 
 ------------------------------------
 ### Study:
