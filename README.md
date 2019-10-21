@@ -1,6 +1,6 @@
 # PhD_Analysis
 ------------------------------------
-This is the psychometric analysis code for binary choice data I gathered in the Schultz lab at cambridge.  The code incorporates both the required analysis package, as well as the jupyter notebooks containing draft figures and results. 
+This is the psychometric analysis code for binary choice data I gathered in the Schultz Lab at Cambridge.  The code incorporates both the required analysis package (the jupyter notebooks containing draft figures and results are in separate repos). 
 * Import **macaque** to get access to the following analysis modules:  
   * **f_toolbox**: common custom functions used throughout the package.
   * **f_trials**: module of functions that fetch trial dataframes from sqlite databases, gathers session information, and filter for errors. 
