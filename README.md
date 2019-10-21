@@ -11,10 +11,9 @@ This is the psychometric analysis code for binary choice data I gathered in the 
   * **f_reference**: functions specific to the analysis of trial history impacts on binary choicess. Provides higher order visualizations, statistics, and model fitting on the softmax dataframes
   * **f_utility**:  
   * **f_Rfunctions**: rpy2-specific functions used to fill in gaps in statsmodels capabilities. Examples include repeated-measures anovas and manovas.
-  * **f_uncertainty**: module focused on calculating/visualising uncertainties in the data: confidence intervals, cross-validation...
-* The R folder contains the needed rpy2 r-instance, with the addition of the afex and lsmeans libraries.  
-* setup_packages.py will make sure the necessary packages are installed on your version of python
-* For those interested in running the parameter fitting with Matlab's fminsearch rather than python's scipy.optimize.minimize, I have attached the appropriate .mat file (requires the matlab.engine module for python install)
+  * **f_uncertainty**: module focused on calculating/visualising uncertainties in the data: confidence intervals, cross-validation...  
+* easy_setp.py will make sure the necessary packages are installed on your python environment automatically (to-do, env.file)
+
 ------------------------------------
 ### Study:
 ## Probability distortion depends on choice sequence in rhesus monkeys
