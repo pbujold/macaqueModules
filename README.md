@@ -1,4 +1,5 @@
-# PhD_Analysis
+# macaqueModules 
+(sounds better than macaque packages!)
 ------------------------------------
 This is the psychometric analysis code for binary choice data I gathered in the Schultz Lab at Cambridge.  The code incorporates both the required analysis package (the jupyter notebooks containing draft figures and results are in separate repos). 
 * Import **macaque** to get access to the following analysis modules:  
