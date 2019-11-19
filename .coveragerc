@@ -1,0 +1,7 @@
+[report]
+omit =
+    setup.py
+    macaque/__main__.py
+    macaque/_version.py
+    versioneer.py
+    tests/*
