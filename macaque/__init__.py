@@ -15,4 +15,4 @@
 
 __all__ = [ 'f_toolbox', 'f_trials', 'f_choices', 'f_psychometrics' ,\
            'f_probabilityDistortion', 'f_sql', 'f_reference', 'f_utility', \
-           'f_Rfunctions', 'f_uncertainty', 'f_models', 'f_random', 'f_adaptive', 'f_scrapeJPG']
+           'f_Rfunctions', 'f_uncertainty', 'f_models', 'f_random', 'f_adaptive']

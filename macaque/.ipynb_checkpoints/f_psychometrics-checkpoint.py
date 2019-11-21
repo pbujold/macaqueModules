@@ -413,9 +413,6 @@ def plot_softmax(softmaxDF,
             else:
                 col = cm.rainbow(row.primaryEV * 2)
             ax[r, c].set_title(str(row['primary']))
-            ax[r, c].set_xlabel('safe ml')
-            if c == 0:
-                ax[r, c].set_ylabel('ratio of safe choices')
             # plot points of selection
             ax[r, c].plot(x_mag, chX_freq, 'bo ', color=col)
             # plots a line at the expected value

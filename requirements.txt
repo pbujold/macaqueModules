@@ -1,0 +1,14 @@
+scipy
+matplotlib 
+seaborn 
+numpy
+statsmodels
+pandas 
+tqdm
+tabulate 
+r-base 
+rpy2
+r-emmeans 
+dill
+tzlocal
+r-afex
